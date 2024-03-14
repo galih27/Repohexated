@@ -1,0 +1,8 @@
+{
+    "name": "(OLD) English providers repository",
+    "description": "Cloudstream English Plugin Repository. No longer maintained.",
+    "manifestVersion": 1,
+    "pluginLists": [
+      "https://codeberg.org/cloudstream/cloudstream-extensions/raw/branch/builds/plugins.json"
+    ]
+  }
